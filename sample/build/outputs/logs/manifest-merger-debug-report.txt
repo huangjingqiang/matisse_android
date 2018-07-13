@@ -1,0 +1,194 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fa2affe9f02058a12dfbd777735a27d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9d6c4de0ea06e1ea0e5acbb20b80d9ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/f80efd264031d2581ef8f21d085ff83a/AndroidManifest.xml:2:1-13:12
+MERGED from [me.shaohui.advancedluban:library:1.3.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.3.5.aar/fa8fc6d57c1be774c50d7bbc807ca385/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/9d43e504a50d7d84235333f902e33b64/AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2cb28303392bbb2ffa92f5a4c5595f4e/AndroidManifest.xml:2:1-13:12
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1bb93acafc88c4e23918272e6226a1d8/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/26da7cbb5c6ae1af875a94a798fdbe91/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e265a42b05f73c46a795dcb61f847ba4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3b7cdbf212f50b214aacab488f21fec6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b4a9abe9f24bddef8495ec791b51db9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be8acc8de03c91994395d169c0eb60a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0e5a8a8a58ac194a448d3f2c4c6facb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/78263168c4936e5c64134e518d0fb4c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3d5cad585a27dfaee231e8c6f188cbf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ab5a05d68a78c08d78e9b86b72dadc88/AndroidManifest.xml:2:1-11:12
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/be4f3dc0539df5241e6879b747fafd5c/AndroidManifest.xml:1:106-7:12
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/e401dff351e602e3f454fd26fd37190a/AndroidManifest.xml:1:116-8:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/559c9e323e8b2fd7be47a6a114e4b1de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/65020d1c0cfb81d923c73d2452f790f1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7c52b02b11234bea7a8d51f73e0def1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68682bdd405c777b8df5e39a6244d78c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+	package
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:18:11-45
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:1-49:12
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:20:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:21:5-81
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-81
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-80
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:22:22-77
+application
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:24:5-47:19
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-32:19
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:27:5-32:19
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/f80efd264031d2581ef8f21d085ff83a/AndroidManifest.xml:11:5-20
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/f80efd264031d2581ef8f21d085ff83a/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2cb28303392bbb2ffa92f5a4c5595f4e/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2cb28303392bbb2ffa92f5a4c5595f4e/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ab5a05d68a78c08d78e9b86b72dadc88/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ab5a05d68a78c08d78e9b86b72dadc88/AndroidManifest.xml:9:5-20
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/be4f3dc0539df5241e6879b747fafd5c/AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/be4f3dc0539df5241e6879b747fafd5c/AndroidManifest.xml:5:5-19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/e401dff351e602e3f454fd26fd37190a/AndroidManifest.xml:5:5-6:19
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/e401dff351e602e3f454fd26fd37190a/AndroidManifest.xml:5:5-6:19
+	android:label
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:28:9-40
+activity#com.zhihu.matisse.sample.SampleActivity
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:29:9-37:20
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:29:19-73
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:30:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:31:25-66
+action#android.intent.action.VIEW
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:35:17-76
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:35:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:38:9-46:20
+	android:grantUriPermissions
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:42:13-47
+	android:authorities
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:40:13-72
+	android:exported
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:39:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:43:13-45:71
+	android:resource
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:45:17-58
+	android:name
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml:44:17-67
+uses-sdk
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fa2affe9f02058a12dfbd777735a27d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fa2affe9f02058a12dfbd777735a27d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9d6c4de0ea06e1ea0e5acbb20b80d9ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/9d6c4de0ea06e1ea0e5acbb20b80d9ad/AndroidManifest.xml:20:5-44
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/f80efd264031d2581ef8f21d085ff83a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbruyelle.rxpermissions2:rxpermissions:0.9.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.9.5.aar/f80efd264031d2581ef8f21d085ff83a/AndroidManifest.xml:7:5-9:41
+MERGED from [me.shaohui.advancedluban:library:1.3.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.3.5.aar/fa8fc6d57c1be774c50d7bbc807ca385/AndroidManifest.xml:7:5-9:41
+MERGED from [me.shaohui.advancedluban:library:1.3.5] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.3.5.aar/fa8fc6d57c1be774c50d7bbc807ca385/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/9d43e504a50d7d84235333f902e33b64/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/9d43e504a50d7d84235333f902e33b64/AndroidManifest.xml:19:5-43
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2cb28303392bbb2ffa92f5a4c5595f4e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/glide-4.7.1.aar/2cb28303392bbb2ffa92f5a4c5595f4e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1bb93acafc88c4e23918272e6226a1d8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.soundcloud.android.crop:lib_crop:1.0.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/lib_crop-1.0.0.aar/1bb93acafc88c4e23918272e6226a1d8/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/26da7cbb5c6ae1af875a94a798fdbe91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/26da7cbb5c6ae1af875a94a798fdbe91/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e265a42b05f73c46a795dcb61f847ba4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/e265a42b05f73c46a795dcb61f847ba4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3b7cdbf212f50b214aacab488f21fec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/3b7cdbf212f50b214aacab488f21fec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b4a9abe9f24bddef8495ec791b51db9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/6b4a9abe9f24bddef8495ec791b51db9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be8acc8de03c91994395d169c0eb60a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/be8acc8de03c91994395d169c0eb60a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0e5a8a8a58ac194a448d3f2c4c6facb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0e5a8a8a58ac194a448d3f2c4c6facb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/78263168c4936e5c64134e518d0fb4c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/78263168c4936e5c64134e518d0fb4c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3d5cad585a27dfaee231e8c6f188cbf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c3d5cad585a27dfaee231e8c6f188cbf/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ab5a05d68a78c08d78e9b86b72dadc88/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.7.1.aar/ab5a05d68a78c08d78e9b86b72dadc88/AndroidManifest.xml:5:5-7:41
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/be4f3dc0539df5241e6879b747fafd5c/AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.imagezoom:library:1.0.4] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/be4f3dc0539df5241e6879b747fafd5c/AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/e401dff351e602e3f454fd26fd37190a/AndroidManifest.xml:3:5-72
+MERGED from [it.sephiroth.android.library.easing:library:1.0.2] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/library-1.0.2.aar/e401dff351e602e3f454fd26fd37190a/AndroidManifest.xml:3:5-72
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/559c9e323e8b2fd7be47a6a114e4b1de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/559c9e323e8b2fd7be47a6a114e4b1de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/65020d1c0cfb81d923c73d2452f790f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/65020d1c0cfb81d923c73d2452f790f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7c52b02b11234bea7a8d51f73e0def1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/b7c52b02b11234bea7a8d51f73e0def1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68682bdd405c777b8df5e39a6244d78c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/jisheng/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/68682bdd405c777b8df5e39a6244d78c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+		ADDED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+		INJECTED from /Users/jisheng/Downloads/Matisse/sample/src/main/AndroidManifest.xml
+activity#com.zhihu.matisse.ui.MatisseActivity
+ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:9-73
+	android:name
+		ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:19-70
+activity#com.zhihu.matisse.internal.ui.AlbumPreviewActivity
+ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:9-87
+	android:name
+		ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:19-84
+activity#com.zhihu.matisse.internal.ui.SelectedPreviewActivity
+ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:9-90
+	android:name
+		ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:30:19-87
+activity#com.soundcloud.android.crop.CropImageActivity
+ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:9-82
+	android:name
+		ADDED from [:matisse] /Users/jisheng/Downloads/Matisse/matisse/build/intermediates/manifests/full/debug/AndroidManifest.xml:31:19-79
